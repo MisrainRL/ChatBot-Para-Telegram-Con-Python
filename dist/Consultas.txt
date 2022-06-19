@@ -1,0 +1,85 @@
+﻿
+Fecha de consulta: Sat May 23 16:09:16 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Aceite de masaje gano
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:09:20 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Jabón Ganozhi
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:09:29 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Pasta de dientes
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:09:35 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Shampoo Ganozhi
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:11:43 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Gel de baño
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:11:49 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Aceite de masaje gano
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:11:53 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Jabón Ganozhi
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:11:56 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Pasta de dientes
+--------------------------------------------------------
+Fecha de consulta: Sat May 23 16:12:02 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Cuidado Personal
+Producto: Shampoo Ganozhi
+--------------------------------------------------------
+Fecha de consulta: Sun May 31 17:00:22 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Acerca de nosotros
+Sub-Categoria: Quienes Somos
+Consulta: Acerca de.
+--------------------------------------------------------
+Fecha de consulta: Thu Jul  2 15:52:08 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Acerca de nosotros
+Sub-Categoria: Quienes Somos
+Consulta: Acerca de.
+--------------------------------------------------------
+Fecha de consulta: Thu Jul  2 15:53:22 2020
+Nombre de usuario: Misrain
+Tipo de Usuario: SocioDXN
+Categoria: Productos
+Sub-Categoria: Alimentos y Bebidad
+Producto: DXN Vita café
+--------------------------------------------------------
